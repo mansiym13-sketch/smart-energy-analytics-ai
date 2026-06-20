@@ -1,35 +1,25 @@
 ⚡ Smart Energy Analytics AI
 AI-Powered Smart Energy Analytics and Forecasting System
-
 🌐 Live Demo:
 https://smart-energy-analytics-ai.streamlit.app
 
 📌 Overview
-
 Smart Energy Analytics AI is a machine learning-based platform that helps users monitor electricity consumption, forecast future energy usage, detect anomalies, analyze carbon footprint, and receive personalized energy-saving recommendations.
-
 🚨 Problem Statement
-
 Traditional electricity monitoring systems only provide historical consumption data and do not help users:
-
 Predict future energy usage
 Detect abnormal consumption patterns
 Reduce energy waste
 Monitor environmental impact
-
 This often leads to higher electricity bills and inefficient energy management.
-
 💡 Solution
-
 The system uses Machine Learning and Data Analytics to:
-
 1.Monitor energy consumption
 2.Forecast future usage
 3.Detect anomalies
 4.Generate recommendations
 5.Calculate carbon footprint
 6.Visualize energy trends
-
 
 🏗 System Architecture
 User
@@ -49,6 +39,7 @@ Forecasting & Anomaly Detection
   │
   ▼
 MongoDB Database
+
 🛠 Tech Stack
 Python
 Streamlit
@@ -60,6 +51,7 @@ Scikit-Learn
 XGBoost
 Prophet
 ReportLab
+
 📊 Features
 📈 Energy Consumption Dashboard
 🔮 Energy Forecasting
@@ -80,6 +72,7 @@ Real-Time Sensor Monitoring
 AWS Cloud Deployment
 Mobile Application
 AI Energy Assistant
+
 👩‍💻 Developer
 
 Mansi Ahirrao
