@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+.streamlit/secrets.toml
+
+dataset/
+*.csv
+*.txt
+
+.DS_Store
+Thumbs.db
