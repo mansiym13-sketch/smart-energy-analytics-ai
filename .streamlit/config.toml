@@ -1,7 +1,4 @@
-[server]
-port = 5000
-address = "0.0.0.0"
-headless = true
+
 
 [theme]
 primaryColor = "#2E7D32"
