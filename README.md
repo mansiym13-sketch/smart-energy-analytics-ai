@@ -23,12 +23,14 @@ This often leads to higher electricity bills and inefficient energy management.
 
 The system uses Machine Learning and Data Analytics to:
 
-Monitor energy consumption
-Forecast future usage
-Detect anomalies
-Generate recommendations
-Calculate carbon footprint
-Visualize energy trends
+1.Monitor energy consumption
+2.Forecast future usage
+3.Detect anomalies
+4.Generate recommendations
+5.Calculate carbon footprint
+6.Visualize energy trends
+
+
 🏗 System Architecture
 User
   │
